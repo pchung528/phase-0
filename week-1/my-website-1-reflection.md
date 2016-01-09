@@ -25,7 +25,7 @@ Does it feel like utopia?
 Open Source is essential to the programming community.  I believe that the 
 nature of the beast requires programmers to build on and revise each other's 
 previous and current works.  Although it does feel like a utopia, the word 
-utopia usually 
+utopia usually follows with the cannotation that it cannot actually ever exist.  It makes me feel protected right now, because I will be studying and implementing past code for the forseeable future.  
 
 Assess the importance of using licenses.
 
